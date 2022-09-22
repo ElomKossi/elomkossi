@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ElomKossi/elomkossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m Elom KOSSI.
+- 👀 I’m interested in CLoud related topic
+- 🌱 I’m currently learning Cloud
+- 💞️ I am looking to collaborate on cloud and devops projects
+- 📫 How to reach me linkedin.com/in/elomkossi/
