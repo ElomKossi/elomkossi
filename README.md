@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Elom KOSSI.
-- 👀 I’m interested in CLoud related topic
-- 🌱 I’m currently learning Cloud
+- 👀 I’m interested in Cloud related topic
 - 💞️ I am looking to collaborate on cloud and devops projects
 - 📫 How to reach me linkedin.com/in/elomkossi/
